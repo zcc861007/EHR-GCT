@@ -1,5 +1,5 @@
 # EHR-GCT
-UIUC CS598 DL4H Final Project - Implement Graph Convolution Transformer
+UIUC CS598 DL4H Final Project - Implement Graph Convolutional Transformer
 
 ## Team ID: 7
 ### Paper Reference
