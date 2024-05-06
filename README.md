@@ -6,6 +6,8 @@ UIUC CS598 DL4H Final Project - Implement Graph Convolutional Transformer
 Choi, Edward, et al. "Learning the graphical structure of electronic health records with graph convolutional transformer." Proceedings of the AAAI conference on artificial intelligence. Vol. 34. No. 01. 2020.
 ### Member
 Chaochao Zhou (cz76@illinois.edu)
+### Presentation
+https://youtu.be/LF0lvLIEDTE
 
 ## How to run
 ### Tensorflow 2 version
