@@ -12,6 +12,6 @@ Chaochao Zhou (cz76@illinois.edu)
 Run EHR-GCT/tensorflow/DL4H_Team_7.ipynb 
 
 ### PyTorch version
-First run EHR-GCT/pytorch/data-proc-pytorch.ipynb to generate tensors (note: it will call the functions in EHR-GCT/tensorflow)\
+First run EHR-GCT/pytorch/data-proc-pytorch.ipynb to generate tensors (note: it will call the functions in EHR-GCT/tensorflow)
 
 Then run EHR-GCT/pytorch/ehr-gct-pytorch.ipynb to train and evaluate models
